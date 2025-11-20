@@ -10,3 +10,6 @@
 | Mitre ATT&CK         | https://attack.mitre.org/          |
 | CVE                  | https://www.cve.org/               |
 | CWE                  | https://cwe.mitre.org/             |
+| Agid | https://www.agid.gov.it/it |
+| NIS | https://www.acn.gov.it/portale/nis |
+| NIST Framework | https://www.nist.gov/cyberframework/quick-start-guides |
